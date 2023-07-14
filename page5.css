@@ -1,0 +1,39 @@
+.navbar {
+    background-color: rgb(36, 35, 35);
+    height: 7vh;
+}
+
+.logo-rps {
+    width: 50px;
+    margin-left: 20px;
+}
+
+.page5-utama {
+    font-size: 20px;
+    font-family:'Times New Roman';
+    margin-top: 2cm;
+}
+
+.page5 {
+    font-size: 20px;
+    padding: 15px;
+    font-family:'Times New Roman';
+}
+.page5-tabel {
+    font-size: 20px;
+    margin: 10px;
+    width: 700px;
+    font-family:'Times New Roman';
+}
+
+.next {
+    padding: 60px;
+}
+
+.button {
+    margin-top: 50px;
+    margin-left: 100px;
+    border-radius: 10px;
+    width: 100px;
+    background-color: rgb(101, 233, 247);
+}

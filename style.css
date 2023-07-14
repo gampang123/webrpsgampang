@@ -1,0 +1,30 @@
+.body {
+    /* background-image: url(bg.jpg); */
+    padding: 4cm;
+    background: rgb(2,0,36);
+background: linear-gradient(90deg, rgba(2,0,36,1) 12%, rgba(4,2,46,1) 29%, rgba(6,5,62,1) 47%, rgba(9,9,78,0.8939950980392157) 67%, rgba(9,24,91,1) 84%, rgba(8,40,105,1) 100%, rgba(0,212,255,1) 100%);
+}
+.back-login {
+    padding-top: 20px;
+    background-color: darkcyan;
+    border-radius: 20px;
+    width: 510px;
+    height: 500px;
+    margin: 0 auto;
+}
+
+.form {
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+.logo-login {
+    width: 100px;
+}
+
+.perintah-login {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: center;
+    font-size: 25px;
+    padding: 10px;
+}

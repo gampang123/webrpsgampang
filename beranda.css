@@ -1,0 +1,77 @@
+.logo-rps {
+    width: 50px;
+    margin-left: 40px;
+    padding-right: 5px;
+}
+
+.fs-4 {
+    font-family: 'Times New Roman';
+}
+
+.navbar {
+    background-color: rgb(36, 35, 35);
+    height: 6vh;
+}
+
+.main {
+    display: grid;
+    grid-template-areas:
+        "head head head"
+        "side content content"
+        ;
+}
+
+.sidebar {
+    grid-area: side;
+    background-color: #c6c6cc;
+    width: 30vh;
+    height: 92vh;
+    font-size: 20px;
+    font-family: 'Times New Roman';
+}
+
+.nav-item {
+    padding-top: 20px;
+}
+
+.nav-item :hover {
+    background-color: rgb(29, 98, 98);
+}
+
+.content {
+    grid-area: content;
+    display: flex;
+    margin-right: 1400px;
+}
+
+.list {
+    font-family: 'Courier New', Courier, monospace;
+    width: max-content;
+    border-radius: 10px;
+}
+
+.head {
+    font-family:'Lucida Sans';
+    border: 10px;
+}
+
+.menu-utama {
+    padding-top: 2vh;
+    width: 170vh;
+    font-family: 'Times New Roman';
+    font-size: 17px;
+}
+
+th {
+    padding-right: 60px;
+}
+
+.action {
+    color: black;
+    text-decoration: none;
+}
+
+.action:hover {
+    background-color: rgb(91, 188, 188);
+    border-radius: 5px;
+}

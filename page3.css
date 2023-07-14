@@ -1,0 +1,36 @@
+.navbar {
+    background-color: rgb(36, 35, 35);
+    height: 7vh;
+}
+
+.logo-rps {
+    width: 50px;
+    margin-left: 20px;
+}
+
+.page3-utama {
+    font-size: 20px;
+    font-family:'Times New Roman';
+    margin-top: 2cm;
+}
+
+.page3 {
+    font-size: 20px;
+    padding: 15px;
+    font-family:'Times New Roman';
+}
+
+.page3-tabel {
+    font-size: 20px;
+    margin: 10px;
+    width: 700px;
+    font-family:'Times New Roman';
+}
+
+.jarak {
+    padding: 20px;
+}
+
+.next {
+    padding: 60px;
+}

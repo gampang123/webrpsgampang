@@ -1,0 +1,80 @@
+.utama {
+    padding-top: 50px;
+    text-align: center;
+    padding-left: 10vh;
+    padding-right: 10vh;
+}
+
+.atas {
+    border: 20px;
+    width: 180vh;
+    font-size: 17px;
+}
+
+.kedua {
+    border: 2px;
+}
+.subjek-utama {
+    width: 150px;
+    font-size: 40px;
+    writing-mode: vertical-lr;
+}
+
+.list-nama {
+    list-style: url();
+}
+
+.subjek {
+    height: 50px;
+    text-align: left;
+    font-size: 25px;
+}
+
+.kode {
+    width: 450px;
+    font-size: 20px;
+}
+
+.isi {
+    text-align: left;
+    width: 1100px;
+    font-size: 20px;
+}
+
+.ketiga {
+    border: 2px;
+}
+
+.list- {
+    list-style: none;
+}
+
+.satu {
+    background-color: #c6c6cc;
+    width: 50px;
+}
+
+.dua {
+    background-color: #c6c6cc;
+    width: 500px;
+}
+
+.tiga {
+    background-color: #c6c6cc;
+    width: 250px;
+}
+
+.empat {
+    background-color: #c6c6cc;
+    width: 300px;
+}
+
+.lima {
+    background-color: #c6c6cc;
+    width: 500px;
+}
+
+.enam {
+    background-color: #c6c6cc;
+    width: 100px;
+}
